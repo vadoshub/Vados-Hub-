@@ -1,0 +1,10 @@
+body {background-color: #fff; color: gold; font-family: Arial; text-align:center; margin:0; padding:0;}
+h1,h2,h3,p,a,label{color: gold;}
+.logo-container,.hero-logo-container{display:flex;justify-content:center;align-items:center;flex-direction:column;}
+.logo-container img,.hero-logo-container img{max-width:200px;width:50%;height:auto;margin-bottom:20px;}
+button{background-color:#1e90ff;color:white;border:none;padding:10px 20px;border-radius:5px;font-size:16px;cursor:pointer;transition:0.3s;}
+button:hover{background-color:#0b65c3;}
+input{width:80%;max-width:400px;padding:10px;margin-bottom:10px;border-radius:5px;border:1px solid #ddd;color:gold;background-color:white;}
+a{color:gold;text-decoration:none;}
+a:hover{color:#ffd700;}
+footer{margin-top:30px;padding:10px;background:#1e90ff;color:white;}
